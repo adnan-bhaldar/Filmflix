@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/filmlane)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/filmflix)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/filmlane?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/filmlane?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
