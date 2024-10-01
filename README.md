@@ -4,7 +4,6 @@
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/filmflix?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/filmflix?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8)
 
   <br />
   <br />
