@@ -50,3 +50,9 @@ window.addEventListener("scroll", function () {
   window.scrollY >= 500 ? goTopBtn.classList.add("active") : goTopBtn.classList.remove("active");
 
 });
+
+
+/**
+ * Dynamic Year in footer
+ */
+document.getElementById("current-year").textContent = new Date().getFullYear();
