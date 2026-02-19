@@ -558,9 +558,16 @@ body.active { overflow: hidden; }
   border: 2px solid var(--gunmetal-1);
   padding: 12px 26px;
   border-radius: 50px;
+  transition: var(--transition-1);
 }
 
 .upcoming .filter-btn:focus { border-color: var(--citrine); }
+
+
+.upcoming .filter-btn:hover {
+  border-color: var(--citrine);
+  color: var(--citrine);
+}
 
 .upcoming .movies-list > li {
   min-width: 100%;
@@ -869,7 +876,7 @@ body.active { overflow: hidden; }
 .social-link {
   background: var(--rich-black-fogra-29);
   color: var(--gray-x);
-  font-size: 14px;
+  font-size: 20px;
   width: 35px;
   height: 35px;
   display: grid;
@@ -888,6 +895,7 @@ body.active { overflow: hidden; }
   line-height: 1.7;
   text-align: center;
   margin-bottom: 15px;
+  text-align: inline;
 }
 
 .copyright > a {
@@ -899,6 +907,12 @@ body.active { overflow: hidden; }
   max-width: max-content;
   width: 100%;
   margin-inline: auto;
+}
+
+/* Ensure the span and link stay on the same line */
+.copyright #current-year, 
+.copyright a {
+  display: inline; 
 }
 
 
